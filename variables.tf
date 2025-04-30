@@ -7,4 +7,8 @@ variable "location" {
 variable "env" { }
 variable "public-subnet" { }
 variable "private-subnet" { }
+variable "secret" { }
+variable "clientid" { }
+variable  "tenantid" { }
+
 
