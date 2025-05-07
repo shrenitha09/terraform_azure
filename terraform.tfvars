@@ -5,5 +5,5 @@ private-subnet      = ["10.5.2.0/24"]
 subscription_id     = "ab965ba5-8fdc-4990-876c-3d2541b6027f"
 client_id           = "9b5ac3b2-a0ac-4527-8a1e-fe66232718cc"
 object_id           = "2b01f552-290c-4fd8-b8bf-9fd55d2d87ef"
-client_secret       = "25e3d6e9-ae43-46cf-b02f-8aeb4b792123"
+client_secret       = "dbR8Q~3uGVP6fl5QKil5hYnsiy.CeZzFNyWGNbRG"
 tenant_id           = "5b52145d-d63b-419a-95a4-c7a076228982"
